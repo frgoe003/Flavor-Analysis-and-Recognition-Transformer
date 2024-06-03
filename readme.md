@@ -47,6 +47,12 @@ FART was compared with two different random forest approaches and demonstrated s
 
 The FART model demonstrates that transformer models, with sufficient data, can outperform simpler machine learning approaches in the domain of molecular taste prediction. The model is accessible via an online user interface, making it easy for users to predict the taste of molecules interactively.
 
+## Poster
+
+For a detailed overview of the project, you can view our project poster:
+
+![Poster](Poster.pdf)
+
 ## References
 
 1. Y. Song, S. Chang, J. Tian, W. Pan, L. Feng, and H. Ji, “A Comprehensive Comparative Analysis of Deep Learning Based Feature Representations for Molecular Taste Prediction,” Foods, vol. 12, no. 18, p. 3386, (2023), doi: 10.3390/foods12183386.
