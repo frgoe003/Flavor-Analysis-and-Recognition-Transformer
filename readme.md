@@ -24,6 +24,12 @@ A comprehensive dataset of 19,478 molecules, nearly all publicly known molecule-
 
 The FART model is based on ChemBERTa, which is pretrained on 10 million SMILES using 6 layers and 12 attention heads. The model was fine-tuned on our curated dataset to predict the taste of molecules.
 
+## Try It Out
+
+You can try out the FART model yourself using our interactive web application. The web app features a molecule drawer that allows you to input a molecule and get the predicted taste classification.
+
+[Try FART now](https://fart-labs.web.app/)
+
 ## Results and Discussion
 
 FART was compared with two different random forest approaches and demonstrated superior performance:
