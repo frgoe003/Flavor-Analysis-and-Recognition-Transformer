@@ -30,6 +30,8 @@ You can try out the FART model yourself using our interactive web application. T
 
 [Try FART now](https://fart-labs.web.app/)
 
+The weights can be found [here](https://huggingface.co/FartLabs/FART_Chemberta_PubChem10M/blob/main/model.safetensors).
+
 ## Results and Discussion
 
 FART was compared with two different random forest approaches and demonstrated superior performance:
